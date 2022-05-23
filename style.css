@@ -1,0 +1,271 @@
+/*
+CDB4DB purple
+FFC8DD light pink
+FFAFCC dark pink
+BDE0FE light blue
+A2D2FF dark blue
+
+
+font-family: 'Caveat', cursive;
+font-family: 'Josefin Sans', sans-serif; normal
+*/
+
+
+html {
+    box-sizing: border-box;
+    line-height: 1.4;
+    
+}
+
+.content-wrap {
+    max-width: 1000px;
+    width: 85%;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+p{
+    font-family: 'Josefin Sans', sans-serif;   
+}
+
+
+/*------------------header-----------------------*/
+header{
+    background-color:#2F3061 ;
+    background-size: 10px ;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;   
+}
+
+h1{
+    font-family: 'Caveat', cursive;
+    font-size: 90px;
+    margin: 0;
+}
+
+header h2{
+    font-family: 'Caveat', cursive;
+    font-size: 50px;
+    margin: 0;
+}
+ 
+
+/*------------------project-----------------------*/
+.project{
+    background-color: #F7FFF7;
+    text-align: center;
+}
+
+.project h2{
+    font-family: 'Caveat', cursive;
+    font-size: 60px;  
+}
+
+.project h2{
+    margin-top: 0;
+    margin-bottom: 0px;
+    
+}
+
+.project h3{
+    background-color: #2F3061;
+    color: aliceblue;
+    padding: 20px;
+    font-size: 25px;  
+    
+}
+
+
+.tribute-page img{
+    display: inline;
+
+}
+
+.tribute-page button{
+    background-color: #2F3061;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 7px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;  
+}
+
+.tribute-page a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+/*-----------------experience---------------------*/
+.experience{
+    background-color: #2F3061 ;
+    color: aliceblue;
+    text-align: center;
+}
+.experience h2{
+    font-family: 'Caveat', cursive;
+    font-size: 60px;
+}
+.experience h2{
+    margin-top: 0;
+}
+.experience h3{
+    background-color: aliceblue;
+    color: #2F3061;
+    padding: 20px;
+    font-size: 25px;   
+}
+
+
+/*----------------education-----------------------*/
+.education {
+    background-color: #F7FFF7 ;
+    text-align: center;
+}
+.education h2{
+    font-family: 'Caveat', cursive;
+    font-size: 60px;   
+}
+.education h2{
+    margin-top: 0;
+}
+.education h3{
+    background-color: #2F3061;
+    color: aliceblue;
+    padding: 20px;
+    font-size: 25px; 
+}
+
+/*---------------------certificate--------------------------------------*/
+* {
+    box-sizing: border-box;
+  }
+.certificate{
+    background-color: #2F3061;
+    text-align: center;
+} 
+.certificate h2{
+    font-family: 'Caveat', cursive;
+    font-size: 60px;
+    color: aliceblue;   
+}
+.certificate p{
+    background-color: aliceblue;
+    color: #2F3061;
+    padding: 10px;   
+}
+.certificate h2{
+    margin-top: 0;
+}
+.certificate h3{
+    background-color: #2F3061;
+    color: aliceblue;
+    padding: 20px;
+    font-size: 25px;  
+}
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.column img{
+    padding-left: 45px;
+    padding-right: 15px;
+}
+.column h2{
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-size: 60px;
+}
+
+/*---------------------paper--------------------------------------*/
+.paper{
+    text-align: center;
+}
+.paper img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.paper button{
+    background-color: #2F3061;
+    padding: 20px 40px;
+    border-radius: 7px;
+    text-align: center;
+}
+.paper a{
+    color: aliceblue;
+    
+    text-decoration: none;
+}
+.paper p{
+    color: black;
+}
+.paper {
+    background-color: #F7FFF7 ;
+    text-align: center;
+}
+.paper h2{
+    font-family: 'Caveat', cursive;
+    font-size: 60px;   
+}
+.paper h2{
+    margin-top: 0;
+}
+.paper h3{
+    background-color: #2F3061;
+    color: aliceblue;
+    padding: 20px;
+    font-size: 25px; 
+}
+
+/*-----------------footer-------------------------*/
+footer{
+    background-color: #2F3061 ;
+    color: aliceblue;   
+}
+footer li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+footer p{
+    color: aliceblue;
+}
+.contact{
+  text-align: center; 
+}
+.contact h2{
+    font-family: 'Caveat', cursive;
+    font-size: 60px;
+    padding: 0;
+    margin: 0;
+}
+.contact a{
+  text-align: none;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
